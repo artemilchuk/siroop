@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "fs": "0.0.2",
+    "gulp": "~3.8.10",
+    "gulp-data": "~1.2.0",
+    "gulp-jade": "~0.11.0",
+    "gulp-less": "~2.0.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-watch": "~4.1.0",
+    "hapi": "~8.1.0",
+    "http-server": "~0.7.4",
+    "node-bourbon": "^4.2.3",
+    "node-neat": "^1.7.2",
+    "underscore": "^1.8.3"
+  }
+}

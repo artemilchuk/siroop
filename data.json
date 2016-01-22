@@ -1,0 +1,68 @@
+{
+  "items": {
+    "item1": {
+      "className": "tablet",
+      "imgUrl": "/img/items/mMWyIsXRRFk6ojY2DZwjxA.200x200.jpg",
+      "altText": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "href": "#",
+      "itemTitle": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "itemPrice": "CHF 69.90"
+    },
+    "item2": {
+      "className": "tablet",
+      "imgUrl": "/img/items/kgjJOiWQaNgJ29NOJQLQpg.200x200.jpg",
+      "altText": "SAMSUNG Tablet 10" Galaxy Tab A 16GB Black",
+      "href": "#",
+      "itemTitle": "SAMSUNG Tablet 10" Galaxy Tab A 16GB Black",
+      "itemPrice": "CHF 329.00"
+    },
+    "item3": {
+      "className": "tablet",
+      "imgUrl": "/img/items/QtPhH1YDClGzTmPNXwsusw.200x200.jpg",
+      "altText": "Microsoft Surface Pro3 12" I5 8GB 256GB",
+      "href": "#",
+      "itemTitle": "Microsoft Surface Pro3 12" I5 8GB 256GB",
+      "itemPrice": "CHF 949.00"
+    },
+    "item4": {
+      "className": "scaner",
+      "imgUrl": "/img/items/zcZ3i67LFTbU5DnKsC2sZw.200x200.jpg",
+      "altText": "I.R.I.S. Scan Book 3",
+      "href": "#",
+      "itemTitle": "I.R.I.S. Scan Book 3",
+      "itemPrice": "CHF 109.00"
+    },
+    "item5": {
+      "className": "tablet",
+      "imgUrl": "/img/courses/demo.jpg",
+      "altText": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "href": "#",
+      "itemTitle": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "itemPrice": "CHF 69.90"
+    },
+    "item6": {
+      "className": "computer",
+      "imgUrl": "/img/items/-0qid7qHT3fD8K4_3ccV2g.200x200.jpg",
+      "altText": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "href": "#",
+      "itemTitle": "Apple Smart Case - Flip-Hülle für Tablet - Leder - Schwarz",
+      "itemPrice": "CHF 69.90"
+    },
+    "item7": {
+      "className": "computer",
+      "imgUrl": "/img/items/Y3IAsQeKjbxL1XLpqiVJuw.200x200.jpg",
+      "altText": "Apple Mac Pro 3,0 GHz 8-Core",
+      "href": "#",
+      "itemTitle": "Apple Mac Pro 3,0 GHz 8-Core",
+      "itemPrice": "CHF 8’299.00" 
+    },
+    "item8": {
+      "className": "computer",
+      "imgUrl": "/img/items/qsM_bgq_f9VxMjbtSZQISw.200x200.jpg",
+      "altText": "ASUS Desktop PC ROG G20AJ-CH038S",
+      "href": "#",
+      "itemTitle": "ASUS Desktop PC ROG G20AJ-CH038S",
+      "itemPrice": "CHF 949.00"
+    }
+  }
+}
